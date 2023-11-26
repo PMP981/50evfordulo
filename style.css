@@ -33,7 +33,19 @@
 }
 @media (max-width: 600px) {
     button {
-      padding: 8px 16px;
-      font-size: 14px;
+      width: 2%;
+      height: auto;
+      margin: auto;
+      text-align: left;
+    }
+    #titlee {
+        font-size: small;
+        margin: auto;
+        text-align: center;
+    }
+    .idezet {
+        font-size: smaller;
+        margin: auto;
+        text-align: left;
     }
   }
