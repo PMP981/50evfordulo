@@ -31,3 +31,9 @@
     margin: auto;
     margin-top: 40px;
 }
+@media (max-width: 600px) {
+    button {
+      padding: 8px 16px;
+      font-size: 14px;
+    }
+  }
